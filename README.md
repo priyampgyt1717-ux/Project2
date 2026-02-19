@@ -1,3 +1,3 @@
 # This Is Repo
 
-This Prject Created by Local Machine
+This Project Created by Local Machine
